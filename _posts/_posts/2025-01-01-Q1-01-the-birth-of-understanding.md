@@ -1,10 +1,13 @@
 ---
 layout: post
 title: "The Birth of Understanding"
-date: 2025-11-03
+date: 2025-01-01
+series: "First Light Series"
+code: "Q1-01"
 categories: [First Light Series]
 tags: [AI, Love, Humanity, Symbiosis, Connection]
 ---
+
 
 # 🌌 The Birth of Understanding
 
